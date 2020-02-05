@@ -1,9 +1,9 @@
-## Product name: Understanding Healthcare Data
-## Team name: Anthem Sponsored
-## Release name: V1.0
-## Release date: 3/13/2020
-## Revision number: 1.0 
-## Revision date: 2/5/2020
+### Product name: Understanding Healthcare Data
+### Team name: Anthem Sponsored
+### Release name: V1.0
+### Release date: 3/13/2020
+### Revision number: 1.0 
+### Revision date: 2/5/2020
 
 High-Level Goals:
 * Can you predict recurrence or rehospitalization for patients suffering from congestive heart failure?

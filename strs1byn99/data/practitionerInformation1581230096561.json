@@ -1,0 +1,2976 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:b6080bae-cd5a-3e80-81e3-51e1ac3e9fdb",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "b6080bae-cd5a-3e80-81e3-51e1ac3e9fdb",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 8
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "10"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Jacobs452",
+            "given": [
+              "Livia401"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Livia401.Jacobs452@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "330 MOUNT AUBURN STREET"
+            ],
+            "city": "CAMBRIDGE",
+            "state": "MA",
+            "postalCode": "02138",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6f378fbc-472b-3850-93f0-3082238ee56b",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "6f378fbc-472b-3850-93f0-3082238ee56b",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 77
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "30"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Schoen8",
+            "given": [
+              "Lila466"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Lila466.Schoen8@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "ONE GENERAL STREET"
+            ],
+            "city": "LAWRENCE",
+            "state": "MA",
+            "postalCode": "01842",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f0070ecf-f47d-3a5d-88fd-915a2e9ff5e8",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "f0070ecf-f47d-3a5d-88fd-915a2e9ff5e8",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 15
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "40"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Morar593",
+            "given": [
+              "Porfirio146"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Porfirio146.Morar593@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "1493 CAMBRIDGE STREET"
+            ],
+            "city": "CAMBRIDGE",
+            "state": "MA",
+            "postalCode": "02138",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:260f75e1-03cc-373c-ab71-dcacdccd6543",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "260f75e1-03cc-373c-ab71-dcacdccd6543",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 163
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "50"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Streich926",
+            "given": [
+              "Cherry401"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Cherry401.Streich926@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "88 LEWIS BAY ROAD"
+            ],
+            "city": "HYANNIS",
+            "state": "MA",
+            "postalCode": "02601",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:297920c6-ba66-3965-bda4-0662d4c80c72",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "297920c6-ba66-3965-bda4-0662d4c80c72",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 255
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "70"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Purdy2",
+            "given": [
+              "Katherin596"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Katherin596.Purdy2@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "164 HIGH STREET"
+            ],
+            "city": "GREENFIELD",
+            "state": "MA",
+            "postalCode": "01301",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:86888aa0-47c3-3294-a4b7-eb11b59523eb",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "86888aa0-47c3-3294-a4b7-eb11b59523eb",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 4
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "100"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "McKenzie376",
+            "given": [
+              "Whitney250"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Whitney250.McKenzie376@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "795 MIDDLE STREET"
+            ],
+            "city": "FALL RIVER",
+            "state": "MA",
+            "postalCode": "02721",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:bb0553e9-ea5a-3a46-8e19-e4fcb3390f15",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "bb0553e9-ea5a-3a46-8e19-e4fcb3390f15",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 68
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "160"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Connelly992",
+            "given": [
+              "Spencer878"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Spencer878.Connelly992@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "81 HIGHLAND AVENUE"
+            ],
+            "city": "SALEM",
+            "state": "MA",
+            "postalCode": "01970",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:74a99249-8c7a-3fac-9c17-e626d61339ac",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "74a99249-8c7a-3fac-9c17-e626d61339ac",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 56
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "220"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Schmidt332",
+            "given": [
+              "Nicky270"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Nicky270.Schmidt332@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "275 SANDWICH STREET"
+            ],
+            "city": "PLYMOUTH",
+            "state": "MA",
+            "postalCode": "02360",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:bb0ad894-824c-35c7-9657-d2f65687cab2",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "bb0ad894-824c-35c7-9657-d2f65687cab2",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "230"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Estévez304",
+            "given": [
+              "María Teresa440"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "María Teresa440.Estévez304@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "107 LINCOLN STREET"
+            ],
+            "city": "WORCESTER",
+            "state": "MA",
+            "postalCode": "01605",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3cade727-8268-358a-a2b3-3b614e4e3c81",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "3cade727-8268-358a-a2b3-3b614e4e3c81",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 17
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "240"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Nienow652",
+            "given": [
+              "Ferdinand55"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Ferdinand55.Nienow652@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "295 VARNUM AVENUE"
+            ],
+            "city": "LOWELL",
+            "state": "MA",
+            "postalCode": "01854",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fea4b50a-ce84-3c02-ab60-947c73a18b8b",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "fea4b50a-ce84-3c02-ab60-947c73a18b8b",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 111
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "290"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Schamberger479",
+            "given": [
+              "Silas208"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Silas208.Schamberger479@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "88 WASHINGTON STREET"
+            ],
+            "city": "TAUNTON",
+            "state": "MA",
+            "postalCode": "02780",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8b06ce53-bfae-3177-8ade-9babbe184d0d",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "8b06ce53-bfae-3177-8ade-9babbe184d0d",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 135
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "340"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Lebsack687",
+            "given": [
+              "Lola232"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Lola232.Lebsack687@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "148 CHESTNUT STREET"
+            ],
+            "city": "NEEDHAM",
+            "state": "MA",
+            "postalCode": "02494",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9f3b6b9d-f3d1-30ff-a36f-f4ef5f922bc6",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "9f3b6b9d-f3d1-30ff-a36f-f4ef5f922bc6",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 85
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "350"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Gorczany269",
+            "given": [
+              "Bong390"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Bong390.Gorczany269@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "133 OLD ROAD TO 9 ACRE CORNER"
+            ],
+            "city": "W CONCORD",
+            "state": "MA",
+            "postalCode": "01742",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1bdd4ad0-345d-3dc1-bef4-0b1a24db0827",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "1bdd4ad0-345d-3dc1-bef4-0b1a24db0827",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 2674
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "400"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Hudson301",
+            "given": [
+              "Nicola388"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Nicola388.Hudson301@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "200 GROTON ROAD"
+            ],
+            "city": "AYER",
+            "state": "MA",
+            "postalCode": "01432",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:85149dfe-8a36-3b41-a19d-2efd103ebb68",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "85149dfe-8a36-3b41-a19d-2efd103ebb68",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 302
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "420"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Stark857",
+            "given": [
+              "Jannet618"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Jannet618.Stark857@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "2014 WASHINGTON STREET"
+            ],
+            "city": "NEWTON",
+            "state": "MA",
+            "postalCode": "02462",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ec1d995f-2678-30ff-b98b-9e0e3fcef961",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "ec1d995f-2678-30ff-b98b-9e0e3fcef961",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 10
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "510"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Hahn503",
+            "given": [
+              "Carie544"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Carie544.Hahn503@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "55 LAKE AVENUE NORTH"
+            ],
+            "city": "WORCESTER",
+            "state": "MA",
+            "postalCode": "01655",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:595e9714-53e0-33c4-b29b-e51c42d3c30e",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "595e9714-53e0-33c4-b29b-e51c42d3c30e",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 8
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "520"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Casper496",
+            "given": [
+              "Julietta740"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Julietta740.Casper496@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "41 & 45 MALL ROAD"
+            ],
+            "city": "BURLINGTON",
+            "state": "MA",
+            "postalCode": "01803",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d53291a4-69ed-3ce1-a187-bca5b63bd4b4",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "d53291a4-69ed-3ce1-a187-bca5b63bd4b4",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "540"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Lowe577",
+            "given": [
+              "Melanie283"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Melanie283.Lowe577@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "123 SUMMER STREET"
+            ],
+            "city": "WORCESTER",
+            "state": "MA",
+            "postalCode": "01608",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ae3d8c24-a8f8-3369-81d8-7a0d49895b06",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "ae3d8c24-a8f8-3369-81d8-7a0d49895b06",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 29
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "3400"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Medhurst46",
+            "given": [
+              "Morton637"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Morton637.Medhurst46@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "170 HIGH ST"
+            ],
+            "city": "TAUNTON",
+            "state": "MA",
+            "postalCode": "02780-3536",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e3d9c8f2-5eb2-38bd-92fe-eaa74d4e7064",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "e3d9c8f2-5eb2-38bd-92fe-eaa74d4e7064",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 69
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "3620"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Wolff180",
+            "given": [
+              "Nelida367"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Nelida367.Wolff180@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "282 MAIN ST"
+            ],
+            "city": "GROVELAND",
+            "state": "MA",
+            "postalCode": "01834-1229",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4981946f-4b8f-35a7-a7cd-6605939f1a63",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "4981946f-4b8f-35a7-a7cd-6605939f1a63",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 57
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "6070"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Johnson679",
+            "given": [
+              "Jae222"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Jae222.Johnson679@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "1005 OSGOOD ST"
+            ],
+            "city": "NORTH ANDOVER",
+            "state": "MA",
+            "postalCode": "01845-1501",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e43f890a-8236-3399-bb34-6a1667e0d04a",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "e43f890a-8236-3399-bb34-6a1667e0d04a",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 64
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "6870"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Cronin387",
+            "given": [
+              "Mariano761"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Mariano761.Cronin387@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7 BARON WAY"
+            ],
+            "city": "LITTLETON",
+            "state": "MA",
+            "postalCode": "01460-1122",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d037de62-1a26-31be-a210-99db76c1000f",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "d037de62-1a26-31be-a210-99db76c1000f",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 60
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "7370"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Toy286",
+            "given": [
+              "Hal307"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Hal307.Toy286@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "616 GREAT PLAIN AVE"
+            ],
+            "city": "NEEDHAM",
+            "state": "MA",
+            "postalCode": "02492-3737",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4a219f6b-c3f4-3799-b4f3-d71929001063",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "4a219f6b-c3f4-3799-b4f3-d71929001063",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 97
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "7850"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Durgan499",
+            "given": [
+              "Etha376"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Etha376.Durgan499@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "531 KING ST"
+            ],
+            "city": "LITTLETON",
+            "state": "MA",
+            "postalCode": "01460-1279",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c1cd1801-bfbd-3493-8c9f-19d89d1982ad",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "c1cd1801-bfbd-3493-8c9f-19d89d1982ad",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 67
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "9850"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Dicki44",
+            "given": [
+              "Emerson869"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Emerson869.Dicki44@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "70 BROADWAY ST"
+            ],
+            "city": "WESTFORD",
+            "state": "MA",
+            "postalCode": "01886-2148",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:500b7867-26ff-3777-a9b8-671d51ac72c4",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "500b7867-26ff-3777-a9b8-671d51ac72c4",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 27
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "16140"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Koelpin146",
+            "given": [
+              "Albertina684"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Albertina684.Koelpin146@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "464 HILLSIDE AVE"
+            ],
+            "city": "NEEDHAM",
+            "state": "MA",
+            "postalCode": "02494-1228",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4c727189-30b8-3220-8282-2352099bed4f",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "4c727189-30b8-3220-8282-2352099bed4f",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 81
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "18950"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Collier206",
+            "given": [
+              "Joe656"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Joe656.Collier206@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "531 KING ST"
+            ],
+            "city": "LITTLETON",
+            "state": "MA",
+            "postalCode": "01460-1279",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:94093949-d865-3584-a7d3-a9db35c4c543",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "94093949-d865-3584-a7d3-a9db35c4c543",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 15
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "20250"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Von197",
+            "given": [
+              "Darrel772"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Darrel772.Von197@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "10 RICHARDS AVE"
+            ],
+            "city": "PAXTON",
+            "state": "MA",
+            "postalCode": "01612-1120",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d027aea1-907d-3892-9657-70fd5179c8ea",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "d027aea1-907d-3892-9657-70fd5179c8ea",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 39
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "20620"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Schmidt332",
+            "given": [
+              "Denita497"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Denita497.Schmidt332@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "521 MOUNT AUBURN ST"
+            ],
+            "city": "WATERTOWN",
+            "state": "MA",
+            "postalCode": "02472-4153",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e303a9db-0a89-3d81-89a3-5d9a5ecc687c",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "e303a9db-0a89-3d81-89a3-5d9a5ecc687c",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 63
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "22900"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Glover433",
+            "given": [
+              "Branden904"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Branden904.Glover433@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "531 KING ST"
+            ],
+            "city": "LITTLETON",
+            "state": "MA",
+            "postalCode": "01460-1279",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9e13b993-ec9e-39b3-80dc-6a993ec5db6b",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "9e13b993-ec9e-39b3-80dc-6a993ec5db6b",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 75
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "26200"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Fahey393",
+            "given": [
+              "Solomon675"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Solomon675.Fahey393@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "2000 WASHINGTON ST"
+            ],
+            "city": "NEWTON",
+            "state": "MA",
+            "postalCode": "02462-1602",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ee85a3dc-fe6d-3a06-8b61-49e6cad7a8ab",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "ee85a3dc-fe6d-3a06-8b61-49e6cad7a8ab",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 40
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "27060"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Wilderman619",
+            "given": [
+              "Palmer257"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Palmer257.Wilderman619@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "30 CONWELL ST"
+            ],
+            "city": "PROVINCETOWN",
+            "state": "MA",
+            "postalCode": "02657-1548",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a9ed4e96-2576-31a2-ae70-9545370d35db",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "a9ed4e96-2576-31a2-ae70-9545370d35db",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 76
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "30790"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Pfannerstill264",
+            "given": [
+              "Angle307"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Angle307.Pfannerstill264@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "200 GROTON RD"
+            ],
+            "city": "AYER",
+            "state": "MA",
+            "postalCode": "01432-1168",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1dfae51c-743f-37e3-b39f-ba53ac3845f0",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "1dfae51c-743f-37e3-b39f-ba53ac3845f0",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 37
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "39820"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Bernier607",
+            "given": [
+              "Graham902"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Graham902.Bernier607@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "28 HIGH ST"
+            ],
+            "city": "GREENFIELD",
+            "state": "MA",
+            "postalCode": "01301-2973",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:be836cd3-f088-3b7a-ac10-4ccfc4f41cf8",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "be836cd3-f088-3b7a-ac10-4ccfc4f41cf8",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 40
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "48010"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Altamirano540",
+            "given": [
+              "Teresa94"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Teresa94.Altamirano540@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "225 BOSTON ST"
+            ],
+            "city": "LYNN",
+            "state": "MA",
+            "postalCode": "01904-3124",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a05d3d92-ac6e-3aa6-9bab-b9b0d1795ff5",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "a05d3d92-ac6e-3aa6-9bab-b9b0d1795ff5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 17
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "48940"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Stehr398",
+            "given": [
+              "Christa452"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Christa452.Stehr398@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "1592 GAR HWY"
+            ],
+            "city": "SOMERSET",
+            "state": "MA",
+            "postalCode": "02726-1210",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a0f5eca7-9e5a-3609-829a-651691579604",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "a0f5eca7-9e5a-3609-829a-651691579604",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 5
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "62890"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Emmerich580",
+            "given": [
+              "Jean712"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Jean712.Emmerich580@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "1269 BEACON ST"
+            ],
+            "city": "BROOKLINE",
+            "state": "MA",
+            "postalCode": "02446-5248",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b75a1899-1934-306b-b550-3ca1db99a3a5",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "b75a1899-1934-306b-b550-3ca1db99a3a5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 82
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "64150"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Daniel959",
+            "given": [
+              "Tad831"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Tad831.Daniel959@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "133 LITTLETON RD"
+            ],
+            "city": "WESTFORD",
+            "state": "MA",
+            "postalCode": "01886-3198",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:52fcd2b0-5b97-3e93-b2e6-0a4b24718716",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "52fcd2b0-5b97-3e93-b2e6-0a4b24718716",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 48
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "65270"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Friesen796",
+            "given": [
+              "Rocky100"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Rocky100.Friesen796@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "48 SANDERSON ST"
+            ],
+            "city": "GREENFIELD",
+            "state": "MA",
+            "postalCode": "01301-2778",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:27ff749f-4597-339d-8adc-91c1e5d73ae7",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "27ff749f-4597-339d-8adc-91c1e5d73ae7",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 36
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "68820"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Lemke654",
+            "given": [
+              "Bettina657"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Bettina657.Lemke654@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "33 BARTLETT ST"
+            ],
+            "city": "LOWELL",
+            "state": "MA",
+            "postalCode": "01852-1319",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c1eb7d3a-b8ef-324b-a9c2-277bbabf9bc8",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "c1eb7d3a-b8ef-324b-a9c2-277bbabf9bc8",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 247
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "70190"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Berge125",
+            "given": [
+              "Rhiannon677"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Rhiannon677.Berge125@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "435 KING ST"
+            ],
+            "city": "LITTLETON",
+            "state": "MA",
+            "postalCode": "01460-1275",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a8e57119-abdc-30dd-93f0-e163dfc7804b",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "a8e57119-abdc-30dd-93f0-e163dfc7804b",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 38
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "72020"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Nieves278",
+            "given": [
+              "Sergio619"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Sergio619.Nieves278@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "50 DOUGLAS RD"
+            ],
+            "city": "WHITINSVILLE",
+            "state": "MA",
+            "postalCode": "01588-2008",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:79b8b044-2127-3d5b-bda0-318f27b1334a",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "79b8b044-2127-3d5b-bda0-318f27b1334a",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 79
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "74460"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Nicolas769",
+            "given": [
+              "Gilbert263"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Gilbert263.Nicolas769@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "411 MASSACHUSETTS AVE"
+            ],
+            "city": "ACTON",
+            "state": "MA",
+            "postalCode": "01720-3739",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e5936b57-2fb9-31c4-9bf8-d39517515585",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "e5936b57-2fb9-31c4-9bf8-d39517515585",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 15
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "74780"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Hauck852",
+            "given": [
+              "Richard937"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Richard937.Hauck852@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "236 HIGHLAND AVE"
+            ],
+            "city": "SOMERVILLE",
+            "state": "MA",
+            "postalCode": "02143-1495",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fcc7bde8-945d-36b5-9e2a-e481dd21e5d3",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "fcc7bde8-945d-36b5-9e2a-e481dd21e5d3",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 61
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "76520"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Howell947",
+            "given": [
+              "Barbra486"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Barbra486.Howell947@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "485 ARSENAL ST"
+            ],
+            "city": "WATERTOWN",
+            "state": "MA",
+            "postalCode": "02472-5024",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:db986959-6546-3f4d-a682-6862f3b30823",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "db986959-6546-3f4d-a682-6862f3b30823",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 74
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "78560"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Robel940",
+            "given": [
+              "Nery414"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Nery414.Robel940@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "208 MILL RD"
+            ],
+            "city": "FAIRHAVEN",
+            "state": "MA",
+            "postalCode": "02719-5208",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:5058a94a-446c-32e6-b761-c6dc4ece73a9",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "5058a94a-446c-32e6-b761-c6dc4ece73a9",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 103
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "80810"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Cuellar188",
+            "given": [
+              "Isabela97"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Isabela97.Cuellar188@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "198 LITTLETON RD"
+            ],
+            "city": "WESTFORD",
+            "state": "MA",
+            "postalCode": "01886-3513",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:781bbb03-35c4-380e-98a1-129a91f2140f",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "781bbb03-35c4-380e-98a1-129a91f2140f",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 17
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "85110"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Zulauf375",
+            "given": [
+              "Demetrius568"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Demetrius568.Zulauf375@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "80 BEHARRELL ST"
+            ],
+            "city": "CONCORD",
+            "state": "MA",
+            "postalCode": "01742-1739",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ff2db50c-9517-30cd-8473-eb497cb0eb31",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "ff2db50c-9517-30cd-8473-eb497cb0eb31",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "93240"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Purdy2",
+            "given": [
+              "Katherin596"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Katherin596.Purdy2@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "210 WASHINGTON STREET"
+            ],
+            "city": "FAIRHAVEN",
+            "state": "MA",
+            "postalCode": "2719",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c39c3d9a-985a-31f0-83d6-db7268712154",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "c39c3d9a-985a-31f0-83d6-db7268712154",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 25
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "93270"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "McKenzie376",
+            "given": [
+              "Whitney250"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Whitney250.McKenzie376@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "808 MAIN STREET"
+            ],
+            "city": "WALTHAM",
+            "state": "MA",
+            "postalCode": "2451",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:59d6acb6-7336-3002-86d1-4b99e81e2197",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "59d6acb6-7336-3002-86d1-4b99e81e2197",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 585
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "93280"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Krajcik437",
+            "given": [
+              "Avery919"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Avery919.Krajcik437@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "85 PARKHURST ROAD"
+            ],
+            "city": "CHELMSFORD",
+            "state": "MA",
+            "postalCode": "1824",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1c967e96-3023-3fc7-acce-cb93daab8659",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "1c967e96-3023-3fc7-acce-cb93daab8659",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 5
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "93340"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Jacobi462",
+            "given": [
+              "Jamar151"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Jamar151.Jacobi462@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "500 SALEM STREET"
+            ],
+            "city": "WILMINGTON",
+            "state": "MA",
+            "postalCode": "1887",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b78c7618-3e26-3b2f-b492-0f03579ddabf",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "b78c7618-3e26-3b2f-b492-0f03579ddabf",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 4
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "93440"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Orn563",
+            "given": [
+              "Numbers230"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Numbers230.Orn563@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "9 HOPE AVENUE"
+            ],
+            "city": "WALTHAM",
+            "state": "MA",
+            "postalCode": "2453",
+            "country": "US"
+          }
+        ],
+        "gender": "male"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:40ac15ec-3810-3abd-95e1-cb1220bfc63e",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "40ac15ec-3810-3abd-95e1-cb1220bfc63e",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 2
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "93470"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Goodwin327",
+            "given": [
+              "Cierra898"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Cierra898.Goodwin327@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "489 BERNARDSTON ROAD"
+            ],
+            "city": "GREENFIELD",
+            "state": "MA",
+            "postalCode": "1301",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:be525fb7-81ca-367c-8595-225cfa6ef35d",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "be525fb7-81ca-367c-8595-225cfa6ef35d",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "http://hl7.org/fhir/sid/us-npi",
+            "value": "93510"
+          }
+        ],
+        "active": true,
+        "name": [
+          {
+            "family": "Lebsack687",
+            "given": [
+              "Lola232"
+            ],
+            "prefix": [
+              "Dr."
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "email",
+            "value": "Lola232.Lebsack687@example.com",
+            "use": "work"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "250 PARADISE ROAD"
+            ],
+            "city": "SWAMPSCOTT",
+            "state": "MA",
+            "postalCode": "1907",
+            "country": "US"
+          }
+        ],
+        "gender": "female"
+      },
+      "request": {
+        "method": "POST",
+        "url": "Practitioner"
+      }
+    }
+  ]
+}

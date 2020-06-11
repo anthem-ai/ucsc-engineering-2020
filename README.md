@@ -13,7 +13,7 @@ This project uses machine learning to predict the diagnoses of patients with con
 
 ### Files
 
--  [synthea_data_pipeline.ipynb](https://github.com/anthem-ai/ucsc-engineering-2020/blob/master/Synthea%20Data%20Processing%20&%20Encoding/synthea_data_pipeline.ipynb)
+-  [synthea_data_pipeline.ipynb](https://github.com/anthem-ai/ucsc-engineering-2020/blob/master/Data%20Preprocessing%20and%20Tranformation/synthea_data_pipeline.ipynb)
 
 ### Brief Summary
 
@@ -28,10 +28,10 @@ This project uses machine learning to predict the diagnoses of patients with con
 
 ### Files
 
--  [training.py](https://github.com/anthem-ai/ucsc-engineering-2020/blob/master/Training%20Scripts/training.py)
+-  [training.py](https://github.com/anthem-ai/ucsc-engineering-2020/blob/master/Model%20Training%20and%20Testing/training.py)
 	- ```python3 training.py <folder with csvs> <label>```
 
--  [w2vtrain.py](https://github.com/anthem-ai/ucsc-engineering-2020/blob/master/Training%20Scripts/w2vtrain.py)
+-  [w2vtrain.py](https://github.com/anthem-ai/ucsc-engineering-2020/blob/master/Model%20Training%20and%20Testing/w2vtrain.py)
 	- ```python3 w2vtrain.py <folder containing npy files> ```
 
 ### Brief Summary
